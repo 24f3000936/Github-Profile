@@ -56,13 +56,11 @@
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="70"/><br>SQLAlchemy
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jinja/jinja-original.svg" width="70"/><br>Jinja2
-    </td>
   </tr>
 </table>
 
-<p align="center"><strong>RESTful APIs</strong></p>
+<p align="center"><strong>Jinja2 Templates • RESTful APIs</strong></p>
+
 
 ---
 
