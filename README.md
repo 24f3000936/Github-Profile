@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhaven Gupta</h1>
+<h1 align="center">Hi, I'm Bhaven Gupta</h1>
 <h3 align="center">Data Science and AI/ ML Enthusiast</h3>
 
 <p align="center">
