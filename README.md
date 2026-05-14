@@ -22,9 +22,77 @@ Data Science Student | Full Stack Developer | AI/ML Enthusiast
 
 ## 🛠️ Tech Stack
 
+### 👨‍💻 Programming Languages
+<p align="center">
+  
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
+
+</p>
+
+<p align="center">
+Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; SQL
+</p>
+
+---
+
+### ⚙️ Libraries & Frameworks
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,vue,git,github,vscode,redis,celery"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vue" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=redis" height="50"/>
+
+</p>
+
+<p align="center">
+Bootstrap &nbsp; | &nbsp; Flask &nbsp; | &nbsp; Vue JS &nbsp; | &nbsp; Redis &nbsp; | &nbsp; Jinja2 Templates &nbsp; | &nbsp; SQLAlchemy &nbsp; | &nbsp; RESTful APIs &nbsp; | &nbsp; Celery
+</p>
+
+---
+
+### 🗄️ Databases & Tools
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+
+</p>
+
+<p align="center">
+PostgreSQL &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; SQLite &nbsp; | &nbsp; pgAdmin4 &nbsp; | &nbsp; GitHub &nbsp; | &nbsp; VS Code &nbsp; | &nbsp; Google Colab
+</p>
+
+---
+
+### 📚 Core Concepts
+<p align="center">
+
+<img src="https://img.shields.io/badge/DBMS-0A66C2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Problem%20Solving-00C896?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LLM%20Evaluation-8A2BE2?style=for-the-badge" />
 
 </p>
 
