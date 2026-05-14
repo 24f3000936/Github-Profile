@@ -42,16 +42,6 @@ Data Science Student | ML Enthusiast | Backend Developer
 
 ---
 
-## 📊 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24f3000936&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🌟 Featured Projects
 
 ### 🏥 Hospital Management System
