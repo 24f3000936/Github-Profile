@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhaven Gupta</h1>
 
 <h3 align="center">
-Data Science Student | ML Enthusiast | Backend Developer
+Data Science Student | Full Stack Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@ Data Science Student | ML Enthusiast | Backend Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,vue,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,vue,git,github,vscode,redis,celery"/>
 
 </p>
 
