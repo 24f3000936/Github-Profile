@@ -22,63 +22,44 @@ Data Science Student | Full Stack Developer | AI/ML Enthusiast
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-<p align="center">
-  
-<img src="https://skillicons.dev/icons?i=python" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="50"/>
-
-</p>
-
-<p align="center">
-Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; JavaScript &nbsp; 
-</p>
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=database&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-### ⚙️ Libraries & Frameworks
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flask" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vue" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redis" height="50"/>
-<img src="https://skillicons.dev/icons?i=sqlalchemy" height="50"/>
-
-</p>
-
-<p align="center">
-Bootstrap &nbsp; | &nbsp; Flask &nbsp; | &nbsp; Vue JS &nbsp; | &nbsp; Redis &nbsp; | &nbsp; SQLAlchemy &nbsp; 
-</p>
+### Libraries & Frameworks
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
+![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat)
+![REST API](https://img.shields.io/badge/RESTful_API-009688?style=flat)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat)
 
 ---
 
-### 🗄️ Databases & Tools
-<p align="center">
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=flat)
 
-<img src="https://skillicons.dev/icons?i=postgresql" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+---
 
-</p>
-
-<p align="center">
-PostgreSQL &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; SQLite &nbsp; | &nbsp; VS Code &nbsp; 
-</p>
+### Core Concepts
+![DBMS](https://img.shields.io/badge/DBMS-0A66C2?style=flat)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=flat)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-00C896?style=flat)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-8A2BE2?style=flat)
 
 ---
 
@@ -93,28 +74,6 @@ PostgreSQL &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; SQLite &nbsp; | &nbsp; VS Code 
 </p>
 
 ---
-
-## 🌟 Featured Projects
-
-### 🏥 Hospital Management System
-- Flask + MySQL based healthcare application
-- Modern UI/UX and backend integration
-
-### 🤖 Structural Break Analysis (Hackathon Project)
-- Predictive modeling and ML algorithms implementation
-
-### 🌐 Portfolio Website
-- Modern responsive developer portfolio
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
