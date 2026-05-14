@@ -38,7 +38,7 @@ Data Science Student | Full Stack Developer | AI/ML Enthusiast
 </p>
 
 <p align="center">
-Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; JavaScript &nbsp; | &nbsp; SQL
+Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &nbsp; JavaScript &nbsp; 
 </p>
 
 ---
@@ -53,11 +53,12 @@ Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; HTML &nbsp; | &nbsp; CSS &nbsp; | &n
 <img src="https://skillicons.dev/icons?i=vue" height="50"/>
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=redis" height="50"/>
+<img src="https://skillicons.dev/icons?i=sqlalchemy" height="50"/>
 
 </p>
 
 <p align="center">
-Bootstrap &nbsp; | &nbsp; Flask &nbsp; | &nbsp; Vue JS &nbsp; | &nbsp; Redis &nbsp; | &nbsp; Jinja2 Templates &nbsp; | &nbsp; SQLAlchemy &nbsp; | &nbsp; RESTful APIs &nbsp; | &nbsp; Celery
+Bootstrap &nbsp; | &nbsp; Flask &nbsp; | &nbsp; Vue JS &nbsp; | &nbsp; Redis &nbsp; | &nbsp; SQLAlchemy &nbsp; 
 </p>
 
 ---
@@ -71,29 +72,12 @@ Bootstrap &nbsp; | &nbsp; Flask &nbsp; | &nbsp; Vue JS &nbsp; | &nbsp; Redis &nb
 &nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=sqlite" height="50"/>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
 
 </p>
 
 <p align="center">
-PostgreSQL &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; SQLite &nbsp; | &nbsp; pgAdmin4 &nbsp; | &nbsp; GitHub &nbsp; | &nbsp; VS Code &nbsp; | &nbsp; Google Colab
-</p>
-
----
-
-### 📚 Core Concepts
-<p align="center">
-
-<img src="https://img.shields.io/badge/DBMS-0A66C2?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Problem%20Solving-00C896?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/LLM%20Evaluation-8A2BE2?style=for-the-badge" />
-
+PostgreSQL &nbsp; | &nbsp; MySQL &nbsp; | &nbsp; SQLite &nbsp; | &nbsp; VS Code &nbsp; 
 </p>
 
 ---
