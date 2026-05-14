@@ -58,22 +58,11 @@ Data Science Student | ML Enthusiast | Backend Developer
 - Flask + MySQL based healthcare application
 - Modern UI/UX and backend integration
 
-### 📊 Data Analytics Dashboard
-- Data visualization and business insights using Python
-
-### 🤖 Machine Learning Projects
+### 🤖 Structural Break Analysis (Hackathon Project)
 - Predictive modeling and ML algorithms implementation
 
 ### 🌐 Portfolio Website
 - Modern responsive developer portfolio
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
 
 ---
 
