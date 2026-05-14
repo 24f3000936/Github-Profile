@@ -1,44 +1,35 @@
-<h1 align="center">Hi, I'm Bhaven Gupta</h1>
-<h3 align="center">Data Science and AI/ ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Bhaven Gupta</h1>
+<h3 align="center">Data Science Student | ML Enthusiast | Backend Developer</h3>
 
 <p align="center">
-  🌱 Currently learning Data Science and Applications <br>
-  🎓 Student at IIT Madras <br>
-  📍 India
+  Passionate about building AI-driven applications, solving real-world problems using data,
+  and creating modern web experiences.
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Working on data driven insights
-- 💡 Interested in Data Science, AI/ ML, Software Development, Web Development
-- 🚀 I enjoy turning ideas into practical projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=00C896&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Enthusiast;Backend+Developer;AI+and+Analytics+Learner;Open+Source+Contributor" />
+</p>
+---
+
+## 🚀 About Me
+
+- 🎓 Data Science Student
+- 💻 Interested in Machine Learning, AI and Backend Development
+- 📊 Working on Data Analytics and Predictive Modeling projects
+- 🌱 Currently learning Advanced Machine Learning and System Design
+- ⚡ Love building real-world applications and solving problems using technology
 
 ---
 
-## 🧩 Tech Stack
+## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/><br>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"/><br>Java
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/><br>JavaScript
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"/><br>SQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"/><br>CSS
-    </td>
-  </tr>
-</table>
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,vue.js,flask,mysql,git,github,vscode" />
+
+</p>
 ---
 
 ### 🧠 Frameworks & Libraries
@@ -103,3 +94,36 @@
 </table>
 
 <p align="center"><strong>ChatGPT</strong></p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🏥 Hospital Management System
+- Modern healthcare management web application
+- Flask + MySQL backend
+- Responsive UI/UX
+
+### 📊 Data Analytics Dashboard
+- Data visualization and business insights
+- Python, Pandas, Matplotlib
+
+### 🤖 Machine Learning Projects
+- Predictive models
+- Classification and regression algorithms
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
