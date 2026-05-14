@@ -24,7 +24,7 @@ Data Science Student | ML Enthusiast | Backend Developer
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,javascript,flask,mysql,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,flask,mysql,vue.js,git,github,vscode"/>
 
 </p>
 
